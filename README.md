@@ -1,1 +1,1 @@
-# RUAP_Projekt
+Moj repozitorijza kolegij RUAP.
